@@ -1,13 +1,9 @@
 #include "main.h"
 
 /**
- * main - prints putchar
- *
- * Description: prints _putchar
- *
+ * main - entry point
  * Return: 0 (Success)
  */
-
 int main(void)
 {
 	int i = 0;
