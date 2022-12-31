@@ -4,8 +4,8 @@
 /**
  * print_array - prints array
  * @a: pointer of array
- * @n: hoe many times to prints
- *
+ * @n: how many times to prints
+ * Return: no return
  */
 void print_array(int *a, int n)
 {
