@@ -2,13 +2,12 @@
 #include "2-strlen.c"
 
 /**
- * puts2 - put string twice
+ * puts2 - puts string twice
  *
  * @str: string to put twice
  */
 
 void puts2(char *str)
-
 {
 	int i;
 
